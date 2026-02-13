@@ -60,13 +60,18 @@ Console displays:
 ## 💡Learning Outcomes
 
 Worked with REST APIs in Python
+
 Learned JSON data storage and file handling
+
 Used lambda functions for analysis
+
 Implemented exception handling
+
 Built a real-world Python mini project
 
 ## 📌 Project Type
 
 Python Mini Project | API & Data Analysis
+
 
 
