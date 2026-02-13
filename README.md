@@ -47,7 +47,7 @@ A Python-based application that fetches real-time weather data for multiple citi
 5. Run the program:
     python weather_data_analyzer.py
 
-📂 **Output**
+## 📂 Output
 
 Weather data is saved in:
 weather_data.json
@@ -56,7 +56,7 @@ Console displays:
 1.  Weather analysis summary
 2.  Detailed city-wise weather report
 
-💡 **Learning Outcomes**
+## 💡Learning Outcomes
 
 Worked with REST APIs in Python
 Learned JSON data storage and file handling
@@ -64,6 +64,7 @@ Used lambda functions for analysis
 Implemented exception handling
 Built a real-world Python mini project
 
-📌 **Project Type**
+## 📌 Project Type
 
 Python Mini Project | API & Data Analysis
+
