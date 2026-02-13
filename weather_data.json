@@ -1,0 +1,56 @@
+[
+    {
+        "city": "Bangalore",
+        "temperature": 23.51,
+        "humidity": 46,
+        "pressure": 1014,
+        "weather": "overcast clouds",
+        "wind_speed": 5.36,
+        "timestamp": "2025-12-10 18:27:23"
+    },
+    {
+        "city": "Mumbai",
+        "temperature": 29.99,
+        "humidity": 32,
+        "pressure": 1013,
+        "weather": "smoke",
+        "wind_speed": 3.6,
+        "timestamp": "2025-12-10 18:27:23"
+    },
+    {
+        "city": "Delhi",
+        "temperature": 19.05,
+        "humidity": 48,
+        "pressure": 1016,
+        "weather": "haze",
+        "wind_speed": 1.03,
+        "timestamp": "2025-12-10 18:27:23"
+    },
+    {
+        "city": "Kolkata",
+        "temperature": 20.97,
+        "humidity": 68,
+        "pressure": 1015,
+        "weather": "haze",
+        "wind_speed": 1.54,
+        "timestamp": "2025-12-10 18:27:23"
+    },
+    {
+        "city": "Chennai",
+        "temperature": 25.6,
+        "humidity": 82,
+        "pressure": 1014,
+        "weather": "mist",
+        "wind_speed": 4.12,
+        "timestamp": "2025-12-10 18:27:23"
+    },
+    {
+        "city": "Pune",
+        "temperature": 24.11,
+        "humidity": 24,
+        "pressure": 1015,
+        "weather": "clear sky",
+        "wind_speed": 2.2,
+        "timestamp": "2025-12-10 18:27:24"
+    }
+]
