@@ -50,6 +50,7 @@ A Python-based application that fetches real-time weather data for multiple citi
 ## 📂 Output
 
 Weather data is saved in:
+
 weather_data.json
 
 Console displays:
@@ -67,4 +68,5 @@ Built a real-world Python mini project
 ## 📌 Project Type
 
 Python Mini Project | API & Data Analysis
+
 
