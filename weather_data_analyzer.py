@@ -1,4 +1,5 @@
-#import os
+from dotenv import load_dotenv
+import os
 import requests
 import json
 from datetime import datetime
@@ -6,7 +7,9 @@ from datetime import datetime
 #os.chdir(r"E:\Python\2025\projects\Weather_data analyzer\weather_data.json")
 
 CITIES = ["Bangalore", "Mumbai", "Delhi", "Kolkata", "Chennai", "Pune"]
-API_KEY = "0b8aa2a7bc1e06bf9d4f249e9b1e802a"   # replace with the new working key
+
+load_dotenv()
+API_KEY = os.getenv("WEATHER_API_KEY")
 DATA_FILE = r"E:\Python\2025\projects\Weather_data analyzer\weather_data.json"
 
 # Fetch weather for city
